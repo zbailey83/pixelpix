@@ -1,5 +1,5 @@
-# Micael - The Ultimate Web Development Portfolio 
-![Micael](https://i.ibb.co/fHPM38q/image.png)
+# The Ultimate Web Development Portfolio 
+(https://i.ibb.co/fHPM38q/image.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
